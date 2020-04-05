@@ -1,0 +1,15 @@
+.navbar{
+    background-image: url(../../assets/images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-042.jpg);
+}
+
+a{
+   text-decoration: none; 
+   font-weight: 800;
+   font-size: 26px;
+   color: black;
+   font-family: 'Kaushan Script', cursive;
+}
+
+a:hover{
+    color: rgba(241, 11, 57, 0.795);
+}

@@ -1,0 +1,14 @@
+/* body {
+  background: url(../src/assets/images/633029-POAO2Y-273.jpg) ; 
+  font: normal 300 18px "Roboto", sans-serif; 
+} */
+
+ body{
+  background-image: url('../src/assets/images/455cabac40985ec862f3989444a38079.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: 1600px 900px;
+  font-family: lobster;
+  margin: 0%;
+} 
+

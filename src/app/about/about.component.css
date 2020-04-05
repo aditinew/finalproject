@@ -1,0 +1,352 @@
+/* --------------------------------------------------------- */
+/* ===================== FIRST CARD ========================= */
+/* --------------------------------------------------------- */
+#box-1{
+   background:url(../../assets/images/TAPETA-BIALA-CEGLA-FLIZELINA-KAMIEN-3D.jpg);
+    border-top:#992f4d 8px solid;
+    border-bottom:#992f4d 35px solid;
+}
+.middle-heading{
+    text-decoration: underline;
+    text-align: left;
+}
+.box-heading{
+    color:#992f4d;
+    font-weight:bold;
+    font-size: 50px;
+    font-family: 'Kaushan Script', cursive;
+}
+#subbox-1{
+   border-top:#992f4d 5px solid; 
+}
+#innercard1{
+    width: 18rem;
+     float:left;
+     border-top: darkcyan 8px solid;
+     border-radius:20px;
+}
+.mission{
+    font-weight:bold;
+    text-align: center;
+    color:darkcyan;
+    font-family: 'Kaushan Script', cursive;
+}
+#box-2{
+    background-color: violet;
+    border-top: rgba(230, 48, 184, 0.726) 8px solid;
+}
+#innercard2{
+    width: 18rem; 
+    float:left;
+    border-top:violet 8px solid;
+    border-radius:20px;
+}
+.goal{
+    font-weight:bold;
+    color:violet;
+    text-align:center;
+    font-family: 'Kaushan Script', cursive;
+}
+#box-3{
+    background-color: rgba(175, 230, 48, 0.966);
+    /* background-color: white; */
+    border-top: rgba(230, 106, 48, 0.548) 8px solid;
+}
+#innercard3{
+    width: 18rem; 
+    float:left;
+    border-top:rgba(206, 206, 25, 0.822) 8px solid;
+    border-radius:20px;
+}
+.vission{
+    font-weight:bold;
+    text-align:center;
+    color:rgba(206, 206, 25, 0.822);
+    font-family: 'Kaushan Script', cursive;
+}
+#box-4{
+    background: url(../../assets/images/TAPETA-BIALA-CEGLA-FLIZELINA-KAMIEN-3D.jpg);
+    border-top:#992f4d 8px solid;
+    border-bottom:#992f4d 35px solid;
+}
+#innercard4{
+    width: 18rem; 
+    float:left;
+    border-top:rgba(60, 104, 226, 0.822) 8px solid;
+    border-radius:20px;
+}
+.approach{
+    font-weight:bold;
+     text-align: center;
+     color:rgba(60, 104, 226, 0.822);
+     font-family: 'Kaushan Script', cursive;
+}
+/* --------------------------------------------------------- */
+/* ==================== WHY CHOOSE US ====================== */
+/* --------------------------------------------------------- */
+#maincard{
+    padding-right:0px ;
+    padding-left:0px;
+    height:650px;
+    border-top:#992f4d 8px solid;
+    background-color: rgba(0, 0, 0, 0.347);
+}
+
+#basecard1{
+    background-color:rgba(255, 255, 255, 0.363);
+}
+#weddingimg{
+    height:640px;
+    opacity:.8
+}
+#basecard2{
+    height:642px;
+    background-color: rgba(0, 0, 0, 0.347);
+}
+#contentcard{
+    background-color: rgba(0, 0, 0, 0.347);
+    height:642px
+}
+.choose{
+    text-decoration:underline;
+    color:#992f4d;
+    font-family: 'Courgette', cursive;
+    font-weight:bold;
+}
+.Dedicated{
+    font-size:30px;
+     text-align:center;
+     color:#a19082;
+     font-family: 'Courgette', cursive;
+}
+#cheers{
+    font-size:50px;
+    color:#a19082;
+}
+.Specialists{
+     font-size:30px;
+     text-align: center;
+     color:#a19082;
+     font-family: 'Courgette', cursive;
+}
+#heart{
+    font-size:50px;
+    color:#a19082;
+}
+.All{
+     font-size:30px; 
+     text-align:center;
+     color:#a19082;
+     font-family: 'Courgette', cursive;
+}
+#leaf{
+    font-size:50px;
+    color:#a19082;
+}
+.para{
+    color:#a19082;
+    text-align:center;
+}
+/* --------------------------------------------------------- */
+/* ==================== WHY CHOOSE US ====================== */
+/* --------------------------------------------------------- */
+.offer{
+    color:white;
+    font-family: 'Kaushan Script', cursive;
+}
+.tag{
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+}
+.subtag{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
+#sqaure1{
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);
+    transition: 0.5s;
+    transform:scale(.9);
+    z-index: -1;
+    border-radius: 20px;
+}
+#square1:hover{
+    transform:scale(1.1);
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74); 
+    background-image: linear-gradient(to right top, #270805, #521719, #832526, #b63531, #eb473a);
+    color:white;
+}
+#handshake{
+    text-align:center;
+    padding-left:130px;
+    font-size:60px;
+}
+#sqaure2{
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);
+    transition: 0.5s;
+    transform:scale(.9);
+    z-index: -1;
+    border-radius:20px
+}
+#square2:hover{
+    transform:scale(1.1);
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);  
+    background-image: linear-gradient(to right top, #270805, #521719, #832526, #b63531, #eb473a);
+    color:white;
+}
+#dungeon{
+    text-align:center;
+    padding-left:130px;
+    font-size:60px;
+}
+#sqaure3{
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);
+    transition: 0.5s;
+    transform:scale(.9);
+    z-index: -1;
+    border-radius:20px
+}
+#square3:hover{
+    transform:scale(1.1);
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);
+    background-image: linear-gradient(to right top, #270805, #521719, #832526, #b63531, #eb473a);
+    color:white;
+}
+#vihara{
+    text-align:center;
+    padding-left:130px;
+    font-size:60px;
+}
+#sqaure4{
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);
+    transition: 0.5s;
+    transform:scale(.9);
+    z-index: -1;
+    border-radius:20px
+}
+#square4:hover{
+    transform:scale(1.1);
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);  
+    background-image: linear-gradient(to right top, #270805, #521719, #832526, #b63531, #eb473a);
+    color:white;
+}
+#volume{
+    text-align:center;
+    padding-left:130px;
+    font-size:60px;
+}
+#sqaure5{
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);
+    transition: 0.5s;
+    transform:scale(.9);
+    z-index: -1;
+    border-radius:20px
+}
+#square5:hover{
+    transform:scale(1.1);
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);
+    background-image: linear-gradient(to right top, #270805, #521719, #832526, #b63531, #eb473a);
+    color:white; 
+}
+#lightbulb{
+    text-align:center;
+    padding-left:140px;
+    font-size:60px;
+}
+#sqaure6{
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);
+    transition: 0.5s;
+    transform:scale(.9);
+    z-index: -1;
+    border-radius:20px
+}
+#square6:hover{
+    transform:scale(1.1);
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);  
+    background-image: linear-gradient(to right top, #270805, #521719, #832526, #b63531, #eb473a);
+    color:white;
+}
+#users{
+    text-align:center;
+    padding-left:130px;
+    font-size:60px;
+}
+/* --------------------------------------------------------- */
+/* ======================= OUR TEAM ======================== */
+/* --------------------------------------------------------- */
+.team{
+    color:#992f4d;
+    text-align:center;
+    font-weight:bold;
+    font-size:60px;
+    font-family: 'Kaushan Script', cursive;
+}
+#sub-box{
+    border-top:#992f4d 3px solid;
+}
+#Card1{
+    padding-left:0px;
+    padding-right:0px;
+    border:white;
+    border-radius:20px;
+}
+#cardimg1{
+    border-radius:20px;
+}
+#imgline1{
+    text-decoration: underline;
+    font-family: 'Kaushan Script', cursive;
+}
+#subimgline1{
+    font-family: 'Courgette', cursive;
+}
+#Card2{
+    padding-left:0px;
+    padding-right:0px;
+    border:white;
+    border-radius:20px;
+}
+#cardimg2{
+    border-radius:20px;
+}
+#imgline2{
+    text-decoration: underline;
+    font-family: 'Kaushan Script', cursive;
+}
+#subimgline2{
+    font-family: 'Courgette', cursive;
+}
+#Card3{
+    padding-left:0px;
+    padding-right:0px;
+    border:white;
+    border-radius:20px;
+}
+#cardimg3{
+    border-radius:20px;
+}
+#imgline3{
+    text-decoration: underline;
+    font-family: 'Kaushan Script', cursive;
+}
+#subimgline3{
+    font-family: 'Courgette', cursive;
+}
+#Card4{
+    padding-left:0px;
+    padding-right:0px;
+    border:white;
+    border-radius:20px;
+}
+#cardimg4{
+    border-radius:20px;
+}
+#imgline4{
+    text-decoration: underline;
+    font-family: 'Kaushan Script', cursive;
+}
+#subimgline4{
+    font-family: 'Courgette', cursive;
+}
+/* ------------------------------------------------------------------------------------------------------------------------------- */
+/* ************************************************** DONE *********************************************************************** */
+/* ------------------------------------------------------------------------------------------------------------------------------- */

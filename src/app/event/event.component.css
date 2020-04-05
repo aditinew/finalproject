@@ -1,0 +1,241 @@
+/* --------------------------------------------------------- */
+/* ===================== OUR EVENT ========================= */
+/* --------------------------------------------------------- */
+.heading{
+    text-align: center;
+    font-size:50px;
+    font-weight:bold;
+    color:white;
+    font-family: 'Kaushan Script', cursive;
+}
+#ourevent{
+    background-color: rgba(0, 0, 0, 0.623);
+}
+#eventimg1{
+    width: 18rem;
+    border-bottom: darkcyan 10px solid;
+}
+#eventheading1{
+    text-align:center;
+    font-weight:bold;
+    color:darkcyan;
+    font-family: 'Kaushan Script', cursive;
+}
+#eventimg2{
+    width: 18rem;
+    border-bottom: rgba(206, 206, 25, 0.822) 10px solid;
+}
+#eventheading2{
+    text-align: center;
+    font-weight:bold;
+    color:rgba(206, 206, 25, 0.822);
+    font-family: 'Kaushan Script', cursive;
+}
+#eventimg{
+    height:540px;
+}
+#eventimg4{
+    width: 18rem;
+    border-bottom: violet 10px solid;
+}
+#eventheading4{
+    text-align:center;
+    font-weight:bold;
+    color:violet;
+    font-family: 'Kaushan Script', cursive;
+}
+#eventimg5{
+    width: 18rem;
+    border-bottom: rgba(60, 104, 226, 0.822) 10px solid;
+}
+#eventheading5{
+    text-align:center;
+    font-weight:bold;
+    color:rgba(60, 104, 226, 0.822);
+    font-family: 'Kaushan Script', cursive;
+}
+/* --------------------------------------------------------- */
+/* ===================== OUR SERVICE ======================= */
+/* --------------------------------------------------------- */
+#ourservice{
+    background-color: rgba(0, 0, 0, 0.623);
+}
+.service{
+    color:white;
+    text-align: center;
+    font-size:50px;
+    font-weight:bold;
+    font-family: 'Kaushan Script', cursive;
+}
+.subheadservice{
+    color:white;
+    text-align: center;
+    font-size:20px;
+    font-family: 'Courgette', cursive;
+}
+#servicecard1{
+    border-top:rgba(60, 104, 226, 0.822) 5px solid;
+}
+#servicecardheading1{
+    font-size:30px;
+    font-weight:bold;
+    color:rgba(60, 104, 226, 0.822);
+    font-family: 'Kaushan Script', cursive;
+}
+#servicecard2{
+    border-top:violet 5px solid;
+}
+#servicecardheading2{
+    font-size:30px;
+    font-weight:bold;
+    color:violet;
+    font-family: 'Kaushan Script', cursive;
+}
+#servicecard3{
+    border-top:rgba(206, 206, 25, 0.822) 5px solid;
+}
+#servicecardheading3{
+    font-size:30px;
+    font-weight:bold;
+    color:rgba(206, 206, 25, 0.822);
+    font-family: 'Kaushan Script', cursive;
+}
+#servicecard4{
+    border-top:darkcyan 5px solid;
+}
+#servicecardheading4{
+    font-size:30px;
+    font-weight:bold;
+    color:darkcyan;
+    font-family: 'Kaushan Script', cursive;
+}
+.fa-arrow-alt-circle-right{
+    padding-right: 18px;
+    color: pink;
+}
+a{
+    color:#a19082;
+    font-weight:bold
+}
+ 
+/* --------------------------------------------------------- */
+/* ========================= QUOTE ========================= */
+/* --------------------------------------------------------- */
+.fas{
+    color: burlywood;
+    font-size: 50px;
+}
+.container-fluid{
+    background-image: url("../../assets/images/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.subheadquote{
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Great Vibes', cursive; 
+    font-size: 70px;
+}
+/* --------------------------------------------------------- */
+/* ========================= REGISTER BOX ================== */
+/* --------------------------------------------------------- */
+.registerbox{
+    margin: 0 auto;
+    float: none; 
+    margin-bottom: 10px; 
+    width: 18rem;
+    text-align: center;
+    border-radius: 30px;
+    border-top: rgb(211, 77, 77) 8px solid;
+    background-color: rgba(166, 170, 170, 0);
+}
+#registerline{
+    text-align: center;
+    font-weight:bold;
+    font-family: 'Kaushan Script', cursive;
+}
+
+
+/* --------------------------------------------------------- */
+/* ============== LOGIN SIGNUP BUTTONS & FORM ============== */
+/* --------------------------------------------------------- */
+
+#button1{
+     color:white;
+     background-color:rgb(196, 90, 90);
+     font-family: 'Courgette', cursive;
+}
+  #button1:hover {
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+  #button2{
+    color:white;
+    background-color:rgb(196, 90, 90);
+    font-family: 'Courgette', cursive;
+}
+ #button2:hover {
+   background-color: brown;
+   color: white;
+   border-radius: 5px;
+   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+ }
+#button3{
+    background-color:#923651;
+    color:white;
+    font-size: 18px;
+}
+#button3:hover{
+   background-color:#923651; 
+   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#button4{
+    background-color: #923651;
+    color:white;
+    font-size: 18px;
+}
+#button4:hover{
+   background-color:#923651; 
+   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#upperhead1{
+    background-image: linear-gradient(to right top, #79253c, #7e2840, #822b44, #872f48, #8c324c, #953752, #9e3b58, #a7405e, #b84867, #c85071, #da597a, #eb6184);
+}
+.close{
+    color:white;
+    font-size:30px;
+}
+#upperhead2{
+    background-image: linear-gradient(to right top, #79253c, #7e2840, #822b44, #872f48, #8c324c, #953752, #9e3b58, #a7405e, #b84867, #c85071, #da597a, #eb6184);
+}
+#exampleModalCenterTitle{
+    font-size: 25px;
+    font-family: 'Courgette', cursive;
+    color:white;
+}
+#loginline1{
+    font-size: 20px;
+    font-weight:bold;
+    font-family: 'Courgette', cursive;
+}
+#loginline2{
+    font-size: 20px;
+    font-weight:bold;
+    font-family: 'Courgette', cursive;
+}
+#exampleModalCenterTitle1{
+    font-size: 25px;
+    font-family: 'Courgette', cursive;
+    color:white;
+}
+#button3{
+    font-family: 'Courgette', cursive;
+}
+#button4{
+    font-family: 'Courgette', cursive;
+}
+/* ------------------------------------------------------------------------------------------------------------------------------- */
+/* ************************************************** DONE *********************************************************************** */
+/* ------------------------------------------------------------------------------------------------------------------------------- */

@@ -1,0 +1,41 @@
+/* --------------------------------------------------------- */
+/* ======================== NAVBAR ========================= */
+/* --------------------------------------------------------- */
+.fa{
+  color:#992f4d;
+}
+li a{
+  font-size:25px;
+  font-weight: bold;
+  color:black;
+  transition:1s;
+  font-family: 'Kaushan Script', cursive;
+}
+li a :hover{
+  color:red;
+}
+.ABC{
+  text-align: center;
+}
+.party-hire{
+  background-color:#992f4d;
+  height: 150px; 
+  border-bottom:rgba(255, 255, 255, 0.171) 8px solid;
+}
+.heading{
+  text-align:center; 
+  color:#deb887;
+  padding-top:5px;
+  font-size:80px;
+  font-family: 'Comic Neue', cursive;
+  font-family: 'Great Vibes', cursive; 
+}
+.subheading{
+  text-align: center;
+  font-size: 22px;
+  color:burlywood;
+  font-family: 'Courgette', cursive;
+}
+/* ------------------------------------------------------------------------------------------------------------------------------- */
+/* ************************************************** DONE *********************************************************************** */
+/* ------------------------------------------------------------------------------------------------------------------------------- */

@@ -1,0 +1,55 @@
+/* ====================cards========================= */
+#home{
+  /* background: url("../../assets/images/BeautyPlus_20190823004258676_save.jpg"); */
+  /* background-color: rgba(0, 0, 0, 0.534); */
+  background-color: rgba(0, 0, 0, 0.637);
+  padding:40px;
+}
+.card{
+    padding-left:0px;
+  
+    padding-right:0px;
+  }
+  .card-img{
+    padding-left:0px;
+    padding-right:0px;
+  }
+  /*======================= welcome message==================== */
+
+  #box-2{
+    background-color:rgba(255, 255, 255, 0.363);
+    height: 400px; 
+    border-top:rgb(187, 125, 33) 8px solid;
+    border-bottom:rgb(187, 125, 33) 8px solid;
+ 
+  }
+  #box-heading{
+    text-align:center;
+     color:rgb(187, 125, 33);
+     font-weight:bolder;
+     padding-top:40px;
+     font-size:50px;
+     font-weight: bold;
+     font-family: 'Kaushan Script', cursive;
+
+  }
+  #box-subheading{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courgette', cursive;
+  }
+  #boxes{
+    border: rgba(80, 79, 79, 0.24)10px solid
+  }
+  .topline{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Kaushan Script', cursive;
+  }
+  .middleclass{
+    font-family: 'Courgette', cursive;
+    text-align: center;
+  }
+  /* ------------------------------------------------------------------------------------------------------------------------------- */
+/* ************************************************** DONE *********************************************************************** */
+/* ------------------------------------------------------------------------------------------------------------------------------- */
